@@ -3,4 +3,4 @@ This notebook contains a sample execution of examining metrics which may track a
 Methods examined include SimSiam, SimCLR, and MoCoV2.
 Metrics studied include clustering based metrics both extrinsic and intrinsic, as well as entropy.
 
-Checkpoints created using this notebook are available at: https://drive.google.com/file/d/1-nDEHCC1A3z49fHcz-K_SDcuxuUj07Ro/view?usp=sharing
+Checkpoints created using this notebook are available at: https://drive.google.com/drive/folders/1-2Tjbo01eWI_APcvEGOSW90Z0LBPcc0r?usp=sharing
